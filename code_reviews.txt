@@ -1,1 +1,9 @@
+Similarities: Verify code correctness and be respectful.\
+Differences: The Microsoft guidelines focus a lot on review request delays. The Yelp guidelines say you should make code easy to review.\
+General necessities: Reviews should verify the correctness and maintainability of code and be respectful (focus on code flaws). Reviews should be for finished code, not WIP.\
 
+Good review: https://codereview.stackexchange.com/questions/287774/identifying-unnecessary-attributes-in-a-python-class\
+This review is good because it describes what changes should be made and an overview of why.
+
+Bad review: https://codereview.stackexchange.com/questions/10167/derpifying-images\
+This review has some decent tips, but is not respectful and only provides code examples for comment changes (which is not useful).
